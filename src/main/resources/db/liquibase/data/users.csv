@@ -1,0 +1,4 @@
+id;username;password;first_name;last_name;email;activated;created_date
+1;admin;$2a$04$z2wvvxMO/rhCLTVH9losKeztGPnBVe.zAOckTj46XLa3oiKAIBEOm;Administrator;Administrator;admin@localhost;true;2019-05-08 15:15:15
+2;user;$2a$04$z2wvvxMO/rhCLTVH9losKeztGPnBVe.zAOckTj46XLa3oiKAIBEOm;User;User;user@localhost;true;2019-05-08 15:15:15
+3;deactivated;$2a$04$z2wvvxMO/rhCLTVH9losKeztGPnBVe.zAOckTj46XLa3oiKAIBEOm;Deactivated;Deactivated;deactivated@localhost;false;2019-05-08 15:15:15
