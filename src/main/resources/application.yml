@@ -29,6 +29,10 @@ spring:
                  default-page-size: 10
                  one-indexed-parameters: true
 
+jwt:
+    secret: iufb41UiD71uRrI1Xi5cpZyxbRNQ/k1NrN+TnwlFXvLWxSSmMqi0dAmCh605BaJTsua/3xSVv5di815xTko+P7Q== # MUST BE 64 BYTE BASE64 ENCODED STRING
+    expiration: 64800
+
 server:
     servlet:
         context-path: /api

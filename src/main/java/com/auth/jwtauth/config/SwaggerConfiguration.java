@@ -58,7 +58,7 @@ public class SwaggerConfiguration
         StopWatch watch = new StopWatch();
         watch.start();
 
-        ApiInfo apiInfo = new ApiInfo("Filtering", "Basic demo for filtering with queryDSL",
+        ApiInfo apiInfo = new ApiInfo("Jwt auth", "Basic demo for jwt authentification",
                 "1.0.0", "", null, "", "", Collections.emptyList());
 
         Docket docket = new Docket(DocumentationType.SWAGGER_2)
