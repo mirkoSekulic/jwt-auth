@@ -12,7 +12,7 @@ mvn clean install -DskipTests
 ## Authentification
 
 *login*: admin, password: *test1234*\
-*login*: user, password: *test1234*\
+*login*: user, password: *test1234*
 
 
 
